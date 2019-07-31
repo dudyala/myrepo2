@@ -1,0 +1,6 @@
+*.java
+*.php
+*.obj
+*.class
+!index.php
+[abc].php
